@@ -283,6 +283,9 @@ List<String> reversedAnimals = animals.reversed.toList();
 
 34.Difference between a Modal and Persistent BottomSheet with an example?
 
+Modal Bottom Sheet: This type of bottom sheet disables interaction with the main content behind it. It requires user interaction (like button clicks) to dismiss it.
+Persistent Bottom Sheet: This type of bottom sheet allows the user to interact with the content behind it. It can be dragged up or down to dismiss or reveal more content.
+
 ---
 
 35.How is an `Inherited Widget` different from a `Provider`?
