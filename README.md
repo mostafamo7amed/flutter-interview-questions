@@ -363,6 +363,8 @@ AnimationController is for how long the animation would be and how to control fr
 
 45.When to use a SingleTickerProviderStateMixin and TickerProviderStateMixin?
 
+ When you are using single AnimationController use SingleTickerProviderStateMixin . If you need more than one AnimationController use TickerProviderStateMixin 
+
 ---
 
 46.Define a `TweenAnimation` ?
